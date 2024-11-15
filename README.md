@@ -35,6 +35,6 @@ First time cloning the repo?
 
 1. Ensure you have `npm` installed in your machine: `npm -v`
 1. Once you have `npm` installed, go ahead and `npm install`
-1. Build the repo `npm build`
-1. Start the server `npm start`
+1. Build the repo `npm run build`
+1. Start the server `npm run start`
 1. You should see the local instance of the React website on http://localhost:3000/
